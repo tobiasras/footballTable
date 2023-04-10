@@ -1,0 +1,7 @@
+HOME;AWAY;HOME_SCORE;AWAY_SCORE;10
+Randers;OB;2;1
+Midtjylland;AaB;0;0
+Horsens;Vejle;3;1
+SønderjyskE;FC Copenhagen;1;3
+Nordsjælland;AGF;3;1
+Brøndby;Lyngby;4;1
